@@ -3,6 +3,8 @@ To install it dowload the zip file and extract the image file, afte that use it 
 How to update the firmware for ECHO MINI: 
 1. Unzip the file and copy the HIFIECxxx.img file to the root directory of the ECHO MINI's internal memory.
 2. Safely eject the device and restart it to begin the automatic upgrade.
+
+   Download this one: ECHO MINI purple theme.zip
    
 THE WINDOWS THEME IS THE MIDNIGHT BLACK IN THE INTERFACE STYLES
    Hope you enjoy it 
